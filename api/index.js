@@ -1,4 +1,4 @@
   export default function handler(req, res) {                                                                                                                                              
-    res.writeHead(302, { Location: 'https://rbingob.magoramon.com.br/' });
+    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/iqnfrbwl?shareCode=NF4J2KXLUFC&afp=bm&home=1' });
     res.end();                                                                                                                                                                             
   }
